@@ -11,7 +11,7 @@
 
 .corPreto{
     
-    background: linear-gradient(90deg,rgba(0, 0, 0, 1) 0%, rgba(144, 7, 179, 1) 40%, rgba(70, 27, 105, 1) 100%) !important;}
+    background-image: linear-gradient(to right top, #b25fd6, #be8be7, #ceb3f3, #e3dafb, #ffffff) !important;}
 
 .corPreto a {
     color: white;
@@ -23,6 +23,10 @@
 
 .corPreto a:active{
     color:#976363
+}
+
+.corPreto a:focs{
+    color: brown;
 }
 
 body{
