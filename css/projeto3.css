@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+
+
+.corPreto{
+    
+    background-color: black !important;
+}
+
+.corPreto a {
+    color: white;
+}
+
+.corPreto a:hover{
+    color:firebrick
+}
+
+
